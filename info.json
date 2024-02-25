@@ -1,0 +1,4 @@
+{
+    "kruskal": "El algoritmo de Kruskal es un algoritmo de la teoria de grafos que encuentra un arbol de expansion minima para un grafo conexo y ponderado. Se basa en la tecnica de union por rango y compresion de caminos para encontrar y mantener los conjuntos disjuntos de vertices.",
+    "dijkstra": "El algoritmo de Dijkstra es un algoritmo utilizado para encontrar el camino más corto entre un nodo de origen y todos los demas nodos en un grafo ponderado dirigido o no dirigido. Utiliza una estrategia voraz, seleccionando siempre el nodo con la distancia mas corta hasta el momento."
+}
